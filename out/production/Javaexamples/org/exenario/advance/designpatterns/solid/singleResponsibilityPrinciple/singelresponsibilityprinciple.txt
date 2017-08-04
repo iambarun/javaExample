@@ -1,9 +1,0 @@
-What is Single Responsibility Principle?
-Single Responsibility Principle is one of the five principles of SOLID Design Principles.
-The S in SOLID stands for Single Responsibility Principle.
-
-Single Responsibility Principle was defined by Robert C. Martin as –
-    →A class should have only one reason to change.
-
-Wikipedia and many write-ups on Single Responsibility Principle describe it as –
-    → A class should have only one responsibility.
