@@ -40,6 +40,7 @@ public class PalindromicString {
         }else{
             System.out.println("NO");
         };
+        scanner.close();
     }
     static boolean checkPallindrome(String input){
         int inputLength=input.length();
